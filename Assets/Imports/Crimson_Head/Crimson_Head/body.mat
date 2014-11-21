@@ -1,0 +1,14 @@
+MadeOf Wood
+
+PhongEnvironment
+{
+	DiffuseMap C:/Users/Luis/Desktop/characters/crimsonhead/models/crimsonheadtorso_d.tga
+	NormalMap C:/Users/Luis/Desktop/characters/crimsonhead/models/crimsonheadtorso_n.tga
+	SpecularMap C:/Users/Luis/Desktop/characters/crimsonhead/models/crimsonheadtorso_s.tga
+	UseSpecular
+	SpecularExponent 128.471
+	SpecularColor 1 1 1
+	SpecularIntensity 0.593577
+	Fresnel 0.751693
+}
+
